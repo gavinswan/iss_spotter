@@ -49,4 +49,4 @@ nextISSTimesForMyLocation((error, passTimes) => {
   printPassTimes(passTimes);
 });
 
-// module.exports = { fetchMyIP };
+module.exports = { printPassTimes };
